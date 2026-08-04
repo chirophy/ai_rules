@@ -209,3 +209,50 @@ payload:
   # 其他
   - '+.gamma.app'
   - '+.elevenreader.io'
+
+  # OpenAI / ChatGPT
+  - '+.openai-api.arkoselabs.com'
+  - '+.openaiassets.blob.core.windows.net'
+  - '+.oaistatsig.com'
+  - '+.chatgpt.site'
+
+  # Anthropic / Claude MCP
+  - '+.claudemcpcontent.com'
+
+  # GitHub / Microsoft Copilot
+  - '+.copilot.com'
+  - '+.copilot-workspace.githubnext.com'
+  - '+.copilotprodattachments.blob.core.windows.net'
+
+  # Gemini
+  - '+.aicode.googleapis.com'
+  - '+.gemini.gstatic.com'
+
+  # Microsoft Copilot Web
+  - '+.edgeservices.bing.com'
+  - '+.services.bingapis.com'
+  - '+.gateway.bingviz.microsoft.net'
+  - '+.gateway.bingviz.microsoftapp.net'
+  - '+.r.bing.com'
+  - '+.odc.officeapps.live.com'
+
+  # Google AI 产品
+  - '+.makersuite.google.com'
+  - '+.bard.google.com'
+  - '+.flow.google'
+  - '+.stitch.withgoogle.com'
+  - '+.notebook.google.com'
+
+  # 新增 AI 服务
+  - '+.arena.ai'
+  - '+.deepwiki.com'
+  - '+.deepwiki.org'
+  - '+.crewai.com'
+  - '+.langchain.com'
+  - '+.minimax.io'
+  - '+.mozilla.ai'
+  - '+.qoder.com'
+  - '+.tripo3d.ai'
+  - '+.anythingllm.com'
+  - '+.agentclientprotocol.com'
+  - '+.grokipedia.com'
